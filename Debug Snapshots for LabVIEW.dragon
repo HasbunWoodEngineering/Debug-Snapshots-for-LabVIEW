@@ -1,0 +1,14 @@
+[project]
+labview-version = 2020
+vipc = ""
+
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+jki_lib_easyxml = "3.0.0.170"
+sas_workshops_lib_blue_formatter_for_labview = "4.0.1.981"
+national_instruments_lib_hidden_gems_in_vi_lib = "1.0.0.10"
+oglib_file = "6.0.2.28"
+jki_lib_caraya = "1.4.4.148"
