@@ -15,6 +15,8 @@ No dialogs, no UI clutter — just keyboard shortcuts.
 
 ## ⚡ Usage (Quick Drop)
 
+Press **Ctrl + Space** to open the Quick Drop window, then: 
+
 ### 💾 Save Debug Snapshot
 - **Ctrl + S** — Save breakpoints & probes  
 - **Ctrl + Shift + S** — Save *probes only* (ignore breakpoints)
