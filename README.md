@@ -56,7 +56,7 @@ You can overwrite this path manually if you want to use a different file.
 
 ### Users
 If you only intend to use the tool, install it directly from  
-**vipm.io**.
+[**vipm.io**](https://www.vipm.io/package/hasbun_wood_engineering_lib_debug_snapshots_for_labview).
 
 ### Developers / Contributors
 Clone the repository and open it with **JKI Dragon**.  
